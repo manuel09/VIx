@@ -1,0 +1,17 @@
+{
+  "name": "manuel09-repo",
+  "description": "Repository personale con l’estensione VixSrc",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "id": "vixsrc",
+      "name": "VixSrc Extension",
+      "version": "1.0",
+      "description": "Estensione per VixSrc",
+      "author": "manuel09",
+      "className": "com.manuel09.VixSrcExtension",
+      "url": "https://raw.githubusercontent.com/manuel09/VIx/builds/VixSrcExtension-1.0.cs3",
+      "iconUrl": ""
+    }
+  ]
+}
